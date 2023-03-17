@@ -19,6 +19,10 @@ fazendo um request da api de pokemons(CRUD)
 - O banco de dados é de sua escolha, mas nesse projeto utilizei o PostgreSQL e a lib sqlalchemy
 - Instalação dos requeriments.txt disponibilizados
 
+###  Execução
+
+Basta entrar no diretório do projeto e no terminão digitar python main.py
+
 ### Exemplos das rotas criadas:
 
 ![Uma rota simples (get)](img/inicial.jpeg)
